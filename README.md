@@ -1,7 +1,7 @@
-# AgriMarket
+# Agri-Energy
 
 ## Overview
-AgriMarket is a role-based web application designed to connect farmers and employees through a streamlined product and blog management system. It features a user-friendly interface with authentication, role management, content creation, search, and filters for a modern online agricultural marketplace and blog platform, all backed by a real-time Supabase cloud database.
+Agri-Energy is a role-based web application designed to connect farmers and employees through a streamlined product and blog management system. It features a user-friendly interface with authentication, role management, content creation, search, and filters for a modern online agricultural marketplace and blog platform, all backed by a real-time Supabase cloud database.
 
 ---
 
@@ -149,7 +149,7 @@ You are encouraged to:
 
 ## Other Links
 
-- 🔗 **GitHub Repository**: [https://github.com/ST10320489/PROG7311_POE_PART2](https://github.com/ST10320489/PROG7311_POE_PART2)  
+- 🔗 **GitHub Repository**: [https://github.com/ST10320489/PROG7311_PART3](https://github.com/ST10320489/PROG7311_PART3)  
 - ▶️ **YouTube Demonstrations**:  
   - [Part 1](https://youtu.be/m3q9VzkN2gc)  
   - [Part 2](https://www.youtube.com/watch?v=Jbumf0pnEmc)
